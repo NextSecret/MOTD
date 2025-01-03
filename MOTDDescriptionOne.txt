@@ -1,1 +1,1 @@
-testing?
+The game has just been started, we've added some gamemodes and functions into the game.
